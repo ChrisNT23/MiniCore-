@@ -11,6 +11,16 @@ Las ventas tienen una fecha y un monto, que son los elementos principales que se
 El objetivo es encontrar en un rango de fechas las ventas pertenecientes a cada ventas y mostrar cual fue el producto más vendido en dichas fechas
 
 ## Ejecución del Proyecto
+1. Para instalar las dependencias en el backend y frontend se debe ejecutar en VS el comando
+   #### npm install  
+3. Para ejecutar el backend desde VS, de debe ingresar en la terminal el comando
+   #### yarn start
+4. Nos dará un mensaje que el servidor esta levantado en el puerto 5000 por defecto
+5. Para ejecutar el frontend desde VS, se debe ingresar en la terminal el comando
+   #### npm start
+6. Se abrirá en el navegador http://localhost:3000 y se podrá visualizar el proyecto ejecutándose.
+   
+
 
 ## Información Adicional MVC
 * [Creación Proyectos React](https://es.legacy.reactjs.org/docs/create-a-new-react-app.html)
