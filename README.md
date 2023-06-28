@@ -1,6 +1,8 @@
 # Mini-Core
 
 Este mini-core fue realizado en express.js para el backend y react para el frontend
+![image](https://github.com/ChrisNT23/MiniCore-/assets/105956304/b4852ae3-df7c-4c86-b7de-4d34df799c78)
+
 
 ## Descripción del proyecto
 Se tienen dos tablas, una de vendedores y otra de ventas, un vendedor puede tener varias ventas.
