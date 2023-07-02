@@ -21,18 +21,19 @@ El objetivo es encontrar en un rango de fechas las ventas pertenecientes a cada 
 6. Se abrirá en el navegador http://localhost:3000 y se podrá visualizar el proyecto ejecutándose.
    
 
-
-## Información Adicional MVC
+## Información Adicional MVC - Express.js - React - MongoDB Atlas
 * [Creación Proyectos React](https://es.legacy.reactjs.org/docs/create-a-new-react-app.html)
 * [MERN STACK](https://openwebinars.net/blog/mern-stack-que-es-y-que-ventajas-ofrece/)
 * [Express.js](https://expressjs.com/es/)
 * [Mongo Atlas](https://www.mongodb.com/es/atlas/database)
+* [MVC](https://desarrolloweb.com/articulos/que-es-mvc.html)
   
 ## Tutoriales de ayuda
 * [Creación App en React](https://www.youtube.com/watch?v=hScR513gvNo)
 * [¿Qué es MERN STACK?](https://www.youtube.com/watch?v=d7_CeHM9FRc)
 * [Crea tu Backend con Express.js](https://www.youtube.com/watch?v=DqpL5UtJHus)
 * [Diferencias entre Backend y Frontend](https://www.youtube.com/watch?v=s95S1_vP-dQ)
+  
 ## Contacto
 - christian.narvaez.torres@udla.edu.ec
 - crisarielnarvaezt@gmail.com
